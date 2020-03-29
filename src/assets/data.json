@@ -1,0 +1,221 @@
+{"data": {
+	"meta": {
+		"lastUpdated": "Sábado 28 de marzo de 2020 1:00 p.m.",
+		"title": "CORONAINFO - Informaciones y Enlaces de Interés Sobre El Coronavirus en República Dominicana"
+	},
+	"navigation": [
+		{
+			"label" : "Estadísticas",
+			"href" : "#stats"
+		},
+		{
+			"label" : "Medidas",
+			"href" : "#measures"
+		},
+		{
+			"label" : "Enlaces de Interés",
+			"href" : "#links"
+		},
+		{
+			"label" : "Contacto",
+			"href" : "#contact"
+		}
+	],
+	"stats": {
+		"dailyChange" : [
+			{
+				"fecha": "01/03", "Casos": 1
+			},
+			{
+				"fecha": "02/03", "Casos": 1
+			},
+			{
+				"fecha": "03/03", "Casos": 1
+			},
+			{
+				"fecha": "04/03", "Casos": 1
+			},
+			{
+				"fecha": "05/03", "Casos": 1
+			},
+			{
+				"fecha": "06/03", "Casos": 2
+			},
+			{
+				"fecha": "07/03", "Casos": 2
+			},
+			{
+				"fecha": "08/03", "Casos": 5
+			},
+			{
+				"fecha": "09/03", "Casos": 5
+			},
+			{
+				"fecha": "10/03", "Casos": 5
+			},
+			{
+				"fecha": "11/03", "Casos": 5
+			},
+			{
+				"fecha": "12/03", "Casos": 5
+			},
+			{
+				"fecha": "13/03", "Casos": 5
+			},
+			{
+				"fecha": "14/03", "Casos": 11
+			},
+			{
+				"fecha": "15/03", "Casos": 11
+			},
+			{
+				"fecha": "16/03", "Casos": 11
+			},
+			{
+				"fecha": "17/03", "Casos": 21
+			},
+			{
+				"fecha": "18/03", "Casos": 21
+			},
+			{
+				"fecha": "19/03", "Casos": 34
+			},
+			{
+				"fecha": "20/03", "Casos": 72
+			},
+			{
+				"fecha": "21/03", "Casos": 112
+			},
+			{
+				"fecha": "22/03", "Casos": 202
+			},
+			{
+				"fecha": "23/03", "Casos": 245
+			},
+			{
+				"fecha": "24/03", "Casos": 312
+			},
+			{
+				"fecha": "25/03", "Casos": 392
+			},
+			{
+				"fecha": "26/03", "Casos": 488
+			},
+			{
+				"fecha": "27/03", "Casos": 581
+			},
+			{
+				"fecha": "28/03", "Casos": 719
+			},
+			{
+				"fecha": "29/03", "Casos": 859
+			}
+
+		],
+		"casesPerProvince" : [
+			{
+				"Provincia": "DN", "Confirmados 27/3": 321,"Confirmados 26/3": 273
+			},
+			{
+				"Provincia": "Santiago", "Confirmados 27/3": 90,"Confirmados 26/3": 66
+			},
+			{
+				"Provincia": "Santo Domingo", "Confirmados 27/3": 79,"Confirmados 26/3": 66
+			},
+			{
+				"Provincia": "Duarte", "Confirmados 27/3": 65,"Confirmados 26/3": 59
+			},
+			{
+				"Provincia": "La Vega", "Confirmados 27/3": 33,"Confirmados 26/3": 16
+			}
+		],
+		"casesPerDay" : [
+			{
+				"fecha": "01/03", "Casos": 0
+			},
+			{
+				"fecha": "02/03", "Casos": 0
+			},
+			{
+				"fecha": "03/03", "Casos": 0
+			},
+			{
+				"fecha": "04/03", "Casos": 0
+			},
+			{
+				"fecha": "05/03", "Casos": 1
+			},
+			{
+				"fecha": "06/03", "Casos": 0
+			},
+			{
+				"fecha": "07/03", "Casos": 3
+			},
+			{
+				"fecha": "08/03", "Casos": 0
+			},
+			{
+				"fecha": "09/03", "Casos": 0
+			},
+			{
+				"fecha": "10/03", "Casos": 0
+			},
+			{
+				"fecha": "11/03", "Casos": 0
+			},
+			{
+				"fecha": "12/03", "Casos": 0
+			},
+			{
+				"fecha": "13/03", "Casos": 6
+			},
+			{
+				"fecha": "14/03", "Casos": 0
+			},
+			{
+				"fecha": "15/03", "Casos": 0
+			},
+			{
+				"fecha": "16/03", "Casos": 10
+			},
+			{
+				"fecha": "17/03", "Casos": 0
+			},
+			{
+				"fecha": "18/03", "Casos": 13
+			},
+			{
+				"fecha": "19/03", "Casos": 38
+			},
+			{
+				"fecha": "20/03", "Casos": 40
+			},
+			{
+				"fecha": "21/03", "Casos": 90
+			},
+			{
+				"fecha": "22/03", "Casos": 43
+			},
+			{
+				"fecha": "23/03", "Casos": 67
+			},
+			{
+				"fecha": "24/03", "Casos": 80
+			},
+			{
+				"fecha": "25/03", "Casos": 96
+			},
+			{
+				"fecha": "26/03", "Casos": 93
+			},
+			{
+				"fecha": "27/03", "Casos": 138
+			}
+		]
+	},
+	"footer" :
+		{
+			"copyright": "2020 (c) Todos los derechos reservados"
+		}
+
+}}
