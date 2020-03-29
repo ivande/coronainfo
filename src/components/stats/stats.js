@@ -15,12 +15,12 @@ function Stats({data}){
                     Actualizado: {data.meta.lastUpdated }
                 </p>
             </div>
-            <div className="bar-chart mb-8" style={{ width: '100%', height:500 }}>
+            <div className="bar-chart bg-gray-50 mb-8" style={{ width: '100%', height:500 }}>
                 <ResponsiveContainer>
                     <BarChart
                         data={data.stats.dailyChange}
                         margin={{
-                            top: 5, right: 0, left: 0, bottom: 5,
+                            top: 10, right: 10, left: 10, bottom: 10,
                         }}
                     >
                         <CartesianGrid strokeDasharray="1 1" />

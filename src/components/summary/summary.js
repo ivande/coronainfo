@@ -6,7 +6,7 @@ function Summary({data}){
             <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="max-w-4xl mx-auto text-center">
                     <h2 className="text-3xl leading-9 font-extrabold text-blue-400 sm:text-4xl sm:leading-10 mb-0">
-                        Estado actual del virus
+                        Situación actual del Coronavirus en <br />República Dominicana
                     </h2>
                     <p className="text-lg leading-7 text-gray-500">
                         Actualizado: { data.meta.lastUpdated }

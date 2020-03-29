@@ -18,7 +18,7 @@ function Header({ data }) {
                                     {
                                         data.navigation.map((menuItem) =>
                                             <a key={menuItem.href} href={menuItem.href}
-                                               className="mr-4 px-3 py-2 rounded-md text-base font-medium leading-tight text-white focus:outline-none focus:text-white focus:bg-gray-700  hover:bg-gray-700 transition duration-150 ease-in-out">{menuItem.label}</a>
+                                               className="mr-2 px-3 py-2 rounded-md text-base font-medium leading-tight text-white focus:outline-none focus:text-white focus:bg-gray-700  hover:bg-gray-700 transition duration-150 ease-in-out">{menuItem.label}</a>
                                         )
                                     }
                                 </div>

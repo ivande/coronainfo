@@ -20,6 +20,12 @@ function App() {
         </Helmet>
         <Header data={data} />
         <Summary data={data} />
+        <div className="bg-green-400 text-white my-12 ">
+            <div className="max-w-7xl text-lg mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center">
+                Si información sobre el <strong>Coronavirus</strong>, el gobierno ha habilitado el número <strong>*462</strong> <br/> para informaciones de salud y medidas del estado de emergencia.<br />
+                Libre de cargos y disponible 24 horas
+            </div>
+        </div>
         <Stats data={data} />
         <Measures data={data} />
         <Links data={data} />

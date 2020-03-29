@@ -13,6 +13,10 @@
 			"href" : "#measures"
 		},
 		{
+			"label" : "Preguntas Frecuentes",
+			"href" : "#faq"
+		},
+		{
 			"label" : "Enlaces de Interés",
 			"href" : "#links"
 		},
